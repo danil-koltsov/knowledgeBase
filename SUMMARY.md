@@ -9,10 +9,8 @@
 
 ## ATTACK DEFENSE SOLUTION
 
----
-
-* [Атака и защита уровней TCP/IP](ataka-i-zashita-urovnei-tcp-ip.md)
-* [Атака и защита VoIP, WI-FI, Bluetooth](ataka-i-zashita-voip-wi-fi-bluetooth.md)
-* [Атака и защита виртуальной среды, облачных технологий](ataka-i-zashita-virtualnoi-sredy-oblachnykh-tekhnologii.md)
-* [РЕШЕНИЯ](resheniya.md)
+* [Атака и защита уровней TCP/IP](attack-defense-solution/ataka-i-zashita-urovnei-tcp-ip.md)
+* [Атака и защита VoIP, WI-FI, Bluetooth](attack-defense-solution/ataka-i-zashita-voip-wi-fi-bluetooth.md)
+* [Атака и защита виртуальной среды, облачных технологий](attack-defense-solution/ataka-i-zashita-virtualnoi-sredy-oblachnykh-tekhnologii.md)
+* [РЕШЕНИЯ](attack-defense-solution/resheniya.md)
 
