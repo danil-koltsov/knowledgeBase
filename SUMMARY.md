@@ -19,3 +19,7 @@
 * [Атака и защита виртуальной среды, облачных технологий](attack-defense-solution/ataka-i-zashita-virtualnoi-sredy-oblachnykh-tekhnologii.md)
 * [РЕШЕНИЯ](attack-defense-solution/resheniya.md)
 
+## CS155: Computer and Network Security
+
+* [Buffer overflow](cs155-computer-and-network-security/buffer-overflow.md)
+
