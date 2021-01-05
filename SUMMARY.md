@@ -23,4 +23,5 @@
 
 * [Buffer overflow](cs155-computer-and-network-security/buffer-overflow.md)
 * [Buffer overflow of ebp](cs155-computer-and-network-security/buffer-overflow-of-ebp.md)
+* [Integer overflow](cs155-computer-and-network-security/integer-overflow.md)
 
